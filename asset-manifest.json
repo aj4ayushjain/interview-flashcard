@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interview-flash/static/css/main.ca02da1d.chunk.css",
+    "main.js": "/interview-flash/static/js/main.14273bab.chunk.js",
+    "main.js.map": "/interview-flash/static/js/main.14273bab.chunk.js.map",
+    "runtime-main.js": "/interview-flash/static/js/runtime-main.9338bb4e.js",
+    "runtime-main.js.map": "/interview-flash/static/js/runtime-main.9338bb4e.js.map",
+    "static/js/2.431d808c.chunk.js": "/interview-flash/static/js/2.431d808c.chunk.js",
+    "static/js/2.431d808c.chunk.js.map": "/interview-flash/static/js/2.431d808c.chunk.js.map",
+    "index.html": "/interview-flash/index.html",
+    "precache-manifest.948837b68c12cd40bb7a04b65eb07d3b.js": "/interview-flash/precache-manifest.948837b68c12cd40bb7a04b65eb07d3b.js",
+    "service-worker.js": "/interview-flash/service-worker.js",
+    "static/css/main.ca02da1d.chunk.css.map": "/interview-flash/static/css/main.ca02da1d.chunk.css.map",
+    "static/js/2.431d808c.chunk.js.LICENSE.txt": "/interview-flash/static/js/2.431d808c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/interview-flash/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9338bb4e.js",
+    "static/js/2.431d808c.chunk.js",
+    "static/css/main.ca02da1d.chunk.css",
+    "static/js/main.14273bab.chunk.js"
+  ]
+}
